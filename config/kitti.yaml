@@ -1,0 +1,12 @@
+# Camera calibration and distortion parameters (OpenCV) 
+
+fx: 718.8560
+fy: 718.8560
+cx: 607.1928
+cy: 185.2157
+bf: -386.1448   # stereo baseline times fx
+
+
+# Close/Far threshold. Baseline times.
+ThDepth: 35
+
